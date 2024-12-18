@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/mern-book-app.git
+   git clone https://github.com/Pujan-Dev/MERN_BOOK_STORE.git
    cd mern-book-app
    ```
 
